@@ -1,2 +1,2 @@
 # eu4thot
-True heir of timur pre 1480 Strategia
+True heir of timur przed 1480 strategia
