@@ -1,29 +1,60 @@
-Estatesy:
-  Agenda: Build treasury, sell crownland + exploit bukhara
-  Ulema: Clerical Ministers
-  Burgersi: prestige x4 = 60 prestige na start
-  Dhimmi: nic
-  Amirs: Supremacy over the Crown !!!!!! JAKO OSTATNIE
+Estates:
+  Na start:
+    Agenda: Build treasury, sell crownland + exploit bukhara
+    Ulema: Clerical Ministers
+    Burghers: prestige x4 = 60 prestige na start
+    Dhimmi: nic
+    Amirs: Supremacy over the Crown !!!!!! JAKO OSTATNIE
+  Po wypowiedzeniu wojny i stabilnośc minimum 0:
+     Burgersi: Commercial Advisory Board
+  Z czasem:
+     Ulema: Religious State
+     Amirs: Primacy of the Amirs
+  Przed stworzeniem Mughala:
+    Burghers: All Monopole
 
 Idee:
-  Diplo x6 ~ 2360dip ~ ok. 1460r.
+  Diplo x6 ~ 2360dip ~ ok. 1465r.
+
+Iqta:
+  Liberty Desire -15% +1 Dip rep
 
 Decyzje:
-  Wszystkie 3
+  Wszystkie 3 startowe
   
 Advisorzy:
   1-stability cost -10%
-  1-spy network construction +25%
+  1-improve relations +20% ze zmianą na spy network construction +25%
   1-land force limit +10%/morale +10%
 
+Dyplomaci:
+  1-Polepszanie relacji i sojusz z dawasirem dla -10% ae
+  2-Na wypowiedzenie wojny o niepodległośc, potem spynetwork na Ladakh
+  
+Kompanie: 
+  Fajnie Buhkara band +2 siega ale nie wymagane
+  
 Misje:
   Transoxiana:
     Transoxianian leadership
     Build force limit
-    Prepare for war
-    Expand transoxiana
+    Prepare for war - Exploit 2-4 prowek za manpower
+    Expand transoxiana - Po zmianie kultury na delhi
     Indian raid - 40k armii
+  Delhi(wymagane do kliknięcia przy tworzeniu mughala):
+    Assert control over Delhi - Lahore, Sirhind, Upper doab states
+    Restore Rule over Multan - Multan state
+    Subdue the Afgans - Kabulistan, Sind Sagar
 
-  
 Strategia:
-  1444 śmierć tymura, koniec wojny przed 1446, peace - independence +kabulistan state cały + pieniążki
+  1444 śmierć tymura, koniec wojny przed 1446, peace - independence + kabulistan state cały + pieniążki
+  Atak multan, Kashmir, peace - zjedzenie obu i wyzwolenie punjabu na vasala
+  Atak sirhind ( w międzyczasie ladakh) peace - zjedzenie całego sirhindu dla wasalu oprócz 2 prowek bez cora
+  Rozpoczęcie corowania w strone prowki Delhi
+  Zabranie prowek Sirhind potem Lahore Punjabowi
+  Naraz zmiana kultury na Hindavi zmiana w delhi i powrót na kulture Uzbek  
+  Anektowanie punjabu
+  Monopole all w Burghers
+  Zmiana w Mughala
+  
+  
